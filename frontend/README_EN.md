@@ -3,7 +3,7 @@
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/sara-altunay/movie-database-app/blob/main/frontend/public/demo.gif?raw=true" 
+  <img src="https://raw.githubusercontent.com/sara-altunay/movie-database-app/main/frontend/public/demo.gif" 
        alt="Movie Database Demo" 
        width="800">
 </p>
