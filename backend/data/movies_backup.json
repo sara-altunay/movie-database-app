@@ -1,0 +1,394 @@
+[
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": "8.8",
+    "description": "A thief uses dream-sharing technology to steal corporate secrets. However, he is tasked with planting an idea instead of stealing one.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "duration": "2h 28min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "id": "1bc38e79-4e59-4b28-a1f6-d9692920c551"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.0",
+    "description": "Batman faces the Joker, who threatens to plunge Gotham into chaos. He risks everything to save the city.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "duration": "2h 32min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "id": "3cb3cab0-fb2e-4f56-b915-c83963c34903"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "rating": "8.6",
+    "description": "As Earth becomes uninhabitable, a group of astronauts travels through a wormhole in search of a new planet to save humanity's future.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "duration": "2h 49min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA3NTI1MTc1NF5BMl5BanBnXkFtZTgwNTA1NDE2NjE@._V1_SX300.jpg",
+    "id": "ac037161-2416-4ed5-b00e-a62ab6c3c573"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genre": [
+      "Drama"
+    ],
+    "rating": "9.3",
+    "description": "A banker wrongly imprisoned for murder finds hope and redemption within the harsh walls of Shawshank Prison.",
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "duration": "2h 22min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzc5NjI5OV5BMl5BanBnXkFtZTcwNTA1MzY1OA@@._V1_SX300.jpg",
+    "id": "9a1b2c3d-4e5f-6789-0abc-def123456789"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "8.9",
+    "description": "The lives of two mob hitmen, a boxer, and a pair of bandits intertwine in four tales of violence and redemption.",
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "duration": "2h 34min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901"
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "genre": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "rating": "8.5",
+    "description": "A betrayed Roman general becomes a gladiator and seeks revenge in the arena.",
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "duration": "2h 35min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDlmMzA5NDQtZTllNi00YjBkLWIzZmItZjI1NjA1ZmE3ZDhhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456789012"
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": "9.2",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "duration": "2h 55min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "id": "d4e5f6a7-b8c9-0123-def0-234567890123"
+  },
+  {
+    "title": "Parasite",
+    "year": "2019",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": "8.6",
+    "description": "A poor family schemes to become employed by a wealthy family, but unexpected events unfold.",
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "duration": "2h 12min",
+    "language": "Korean",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "id": "e5f6a7b8-c9d0-1234-ef01-345678901234"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": "8.4",
+    "description": "After Thanos' destruction, the Avengers assemble once more to reverse his actions and restore balance to the universe.",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "duration": "3h 1min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "id": "f6a7b8c9-d0e1-2345-f012-456789012345"
+  },
+  {
+    "title": "Titanic",
+    "year": "1997",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": "7.9",
+    "description": "A young aristocrat falls in love with a poor artist aboard the ill-fated Titanic's maiden voyage.",
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "duration": "3h 14min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "id": "a7b8c9d0-e1f2-3456-0123-567890123456"
+  },
+  {
+    "title": "Joker",
+    "year": "2019",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": "8.4",
+    "description": "In Gotham City, a failed comedian descends into madness and becomes the iconic criminal mastermind.",
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "duration": "2h 2min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "id": "b8c9d0e1-f2a3-4567-1234-678901234567"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": "9.0",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army while Frodo and Sam approach Mount Doom.",
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "duration": "3h 21min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "id": "c9d0e1f2-a3b4-5678-2345-789012345678"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": "8.2",
+    "description": "Peter Parker's identity is exposed, and he asks Doctor Strange for help, leading to the multiverse opening up.",
+    "director": "Jon Watts",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "duration": "2h 28min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+    "id": "d0e1f2a3-b4c5-6789-3456-890123456789"
+  },
+  {
+    "title": "Schindler's List",
+    "year": "1993",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "rating": "9.0",
+    "description": "During World War II, a German industrialist saves over a thousand Jewish refugees.",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "duration": "3h 15min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": "e1f2a3b4-c5d6-7890-4567-901234567890"
+  },
+  {
+    "title": "The Lion King",
+    "year": "1994",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": "8.5",
+    "description": "A young lion prince flees after his father's murder but grows up to return and reclaim his throne.",
+    "director": "Roger Allers, Rob Minkoff",
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "duration": "1h 28min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+    "id": "f2a3b4c5-d6e7-8901-5678-012345678901"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": "8.6",
+    "description": "A young FBI trainee seeks help from a cannibalistic psychiatrist to catch a serial killer.",
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "duration": "1h 58min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": "a3b4c5d6-e7f8-9012-6789-123456789012"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "genre": [
+      "Drama",
+      "War"
+    ],
+    "rating": "8.6",
+    "description": "Following the D-Day invasion, a group of soldiers is sent to find a paratrooper whose brothers have been killed in action.",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "duration": "2h 49min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "id": "b4c5d6e7-f8a9-0123-7890-234567890123"
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": "8.5",
+    "description": "The rivalry between two magicians escalates into a dangerous battle after a tragic accident.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "duration": "2h 10min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/V5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+    "id": "d6e7f8a9-b0c1-2345-9012-456789012345"
+  },
+  {
+    "title": "Dune",
+    "year": "2021",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": "8.0",
+    "description": "A brilliant and gifted young man is sent to a dangerous planet to protect the most valuable resource in the universe.",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Zendaya"
+    ],
+    "duration": "2h 35min",
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "id": "e7f8a9b0-c1d2-3456-0123-567890123456"
+  }
+]
