@@ -1,6 +1,14 @@
 # 🎬 Fullstack Movie Database App
 
-Modern, responsive film veritabanı uygulaması ile en popüler filmleri keşfedin.
+Modern, responsive film veritabanü uygulamasý ile en popüler filmleri keþfedin.
+
+## ✨ Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sara-altunay/movie-database-app/main/frontend/public/demo.gif" 
+       alt="Movie Database Demo" 
+       width="800">
+</p>
 
 ## ✨ Özellikler
 
