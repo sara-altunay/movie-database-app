@@ -27,8 +27,42 @@ npm run dev
 
 ## Live Demo
 
-**Frontend**: http://localhost:5173  
-**Backend**: http://localhost:4000/movies
+### Local Setup
+```bash
+# Backend Server
+cd backend
+npm start
+
+# Frontend Development  
+cd frontend
+npm run dev
+
+# Open in Browser
+http://localhost:5173
+```
+
+### API Demo
+```bash
+# Test with Postman or curl
+GET http://localhost:4000/movies
+
+# Example Response
+[
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "rating": "8.8",
+    "image": "https://...",
+    "id": "..."
+  }
+]
+```
+
+### Live Links
+- **Frontend**: http://localhost:5173  
+- **Backend API**: http://localhost:4000/movies
+- **GitHub Repository**: https://github.com/sara-altunay/movie-database-app
 
 ## 🛠 Used Technologies
 
